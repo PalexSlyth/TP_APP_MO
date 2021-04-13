@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Trottinette"
+    android:background="@color/cyan">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height"
+        android:src="@drawable/trot"
+        android:contentDescription="@string/desc_img_trot" />
+
+    <TextView
+        android:id="@+id/trot_et"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height"
+        android:layout_marginTop="@dimen/marginTop"
+        android:text="@string/text_trot"
+        android:layout_below="@id/img"
+        android:layout_marginLeft="@dimen/marginRight"
+        android:layout_marginRight="@dimen/marginRight"
+        android:textColor="@color/orange"/>
+
+    <TextView
+        android:id="@+id/trot_et2"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/tv"
+        android:layout_marginTop="@dimen/marginTop"
+        android:text="@string/text_trot2"
+        android:layout_below="@id/trot_et"
+        android:layout_marginLeft="@dimen/marginRight"
+        android:layout_marginRight="@dimen/marginRight"
+        android:textColor="@color/orange"/>
+
+    <Button
+        android:id="@+id/prev"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/trot_et2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/marginTop"
+        android:text="@string/retour"
+        app:backgroundTint="@color/orange" />
+
+</RelativeLayout>

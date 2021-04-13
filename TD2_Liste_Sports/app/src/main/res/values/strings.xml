@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Liste_sports_Cyril_SIMON</string>
+
+    //Main
+    <string name="retour">Retour</string>
+    <string name="titre_main" translatable="false">Veuillez séléctionner un sport :</string>
+    <string-array name="montableau">
+        <item>BMX</item>
+        <item>Trottinette</item>
+        <item>Roller</item>
+        <item>Surf</item>
+        <item>Skateboard</item>
+    </string-array>
+
+    //Layout Trot
+    <string name="desc_img_trot" translatable="false">Img_trot</string>
+    <string name="text_trot" translatable="false">La trottinette freestyle est une discipline sportive se pratiquant avec une trottinette renforcée (résistante aux chocs), en réalisant diverses figures acrobatiques (tricks).
+                                                Le pratiquant est appelé « rider » ou parfois « trottirider ». Ce sport se pratique sous plusieurs disciplines comme : le flat, le street, le park, ou encore le snow scoot sur la neige. </string>
+    <string name="text_trot2" translatable="false">La trottinette freestyle provient de l appropriation par les amateurs de trottinettes de la pratique du BMX. C est devenu une réelle discipline sportive à partir des années 2000. La discipline arrive en France en 2008.</string>
+
+    //Layout Skate
+    <string name="desc_img_sk8" translatable="false">Img sk8</string>
+    <string name="text_sk8" translatable="false">Le handball est un sport collectif joué à la main où deux équipes de sept joueurs s\' affrontent avec un ballon en respectant plusieurs règles,
+        sur un terrain rectangulaire de dimensions 40 m par 20 m, séparé en deux camps. </string>
+    <string name="text_sk82" translatable="false">Le handball est sport plutôt physique malgré les apparences. Il faut donc avoir une bonne conditions physiques pour bien encaisser les matchs. La france excèlle dans ce sport.
+        En effet, elle est 6 fois championne du monde, 3 fois championne d europe et à déjà remporter 2 fois la médaille d or au jeux olympiques. Beaucoup de personnes soutient donc cette équipe surnommés les experts".</string>
+
+    //Layout BMX
+    <string name="desc_img_bmx" translatable="false">Desc img bmx</string>
+    <string name="text_bmx" translatable="false">Le BMX (Bicycle motocrossa) est un sport extrême cycliste, physique, technique et spectaculaire. Il est divisé en deux catégories : la Race où les rideurs font la course, et le Freestyle où les rideurs font des figures (ou tricks en anglais).
+        Les pratiquants de ce sport sont nommés pilotes, bicrosseurs, riders. </string>
+    <string name="text_bmx2" translatable="false">Le BMX Freestyle consiste à effectuer des figures techniques et spectaculaires ; il existe plusieurs catégories : le Flat, le Street, le Park, le Vert, le Trail et le Dirt. À partir de 2020, le BMX freestyle est également une discipline olympique. </string>
+
+
+    //Layout Roller
+    <string name="desc_img_roller" translatable="false">Desc img Roller</string>
+    <string name="text_roller" translatable="false">Le patinage à roulettes ou roller (abréviation de l anglais anglais : roller skating qui signifie « patinage à roulettes »), est un mode de déplacement qui consiste à se déplacer sur des chaussures montées sur roues, appelées patins à roulettes ou rollers.</string>
+    <string name="text_roller2" translatable="false">Ce mode de déplacement peut s utiliser comme moyen de transport, comme loisir ou encore comme sport ; il donne lieu à différentes disciplines artistiques ou sportives comme le patinage artistique sur roulettes ou le roller hockey, ainsi qu à l exécution de figures de roller acrobatique ou roller agressif.
+        Les rollers servent aussi à faire des randonnées en famille ou entre amis. En ville, on se déplace en moyenne à 12 km/h.</string>
+
+    //Layout Surf
+    <string name="desc_img_surf" translatable="false">desc img surf</string>
+
+
+    <string name="text_surf2" translatable="false">
+        Au sens plus moderne, le surf est aussi une discipline sportive codifiée à la fin du XXe siècle, un sport individuel pratiqué debout sur une planche courte (shortboard), par opposition à toutes les autres disciplines de glisse sur les vagues comme le longboard, le bodyboard, le bodysurf, le skimboard, le stand up paddle, le windsurf.
+    </string>
+
+    //SplashScreen
+    <string name="desc_splash_screen" translatable="false">desc splash screen</string>
+    <string name="chargement">Chargement...</string>
+
+</resources>

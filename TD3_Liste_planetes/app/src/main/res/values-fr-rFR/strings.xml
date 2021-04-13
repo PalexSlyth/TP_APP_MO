@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cyril_SIMON_Liste_Planetes</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="next">Suivant</string>
+    <string name="previous">Précédent</string>
+    <string name="imgPlanet">image de planète</string>
+    <string name="chargement">Chargement</string>
+</resources>
